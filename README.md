@@ -1,6 +1,7 @@
 # SQL_Manager
 
-![Capture](https://github.com/user-attachments/assets/eb1c2074-f030-47fe-8e0d-961f7a60754e)
+![image](https://github.com/user-attachments/assets/8ea87e2c-7c04-4d4c-9068-3e9e5a3045d3)
+
 # Enhanced SQL Assistant 🤖
 
 A powerful SQL query generator and database analysis tool built with Streamlit and Google's Gemini Pro. This application allows users to interact with their databases using natural language, generates optimized SQL queries, provides data visualizations, and offers intelligent insights.
